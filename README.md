@@ -30,3 +30,4 @@ https://github.com/twintproject/twint
 1) Here we will do sentiment analysis using nltk SentimentIntensityAnalyzer to identify postive, negative and neutral tweets.
 
 2) Once positive and negative tweets are identified, we can create separate wordclouds for positive and negative tweets and identify which aspects/keywords/features customers liked and which customers did not like.
+reference https://towardsdatascience.com/step-by-step-twitter-sentiment-analysis-in-python-d6f650ade58d
